@@ -1,1 +1,8 @@
 /* Portfolio v1 – mobile-first, CSS Grid + checkbox menu hack (no JS yet) */
+:root {
+  --navy: #2f4c70;
+  --ink: #1d2433;
+  --bg: #f7f8fb;
+  --muted: #6b7486;
+  --radius: 14px;
+}
