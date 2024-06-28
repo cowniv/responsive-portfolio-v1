@@ -62,3 +62,12 @@ main { max-width: 1000px; margin: 0 auto; padding: 0 20px; }
 
 .section { padding: 48px 0; }
 .section h2 { font-size: 28px; margin-bottom: 16px; }
+
+.chips { display: flex; flex-wrap: wrap; gap: 10px; }
+.chips span {
+  background: #fff;
+  border: 1px solid #dfe3ec;
+  padding: 6px 14px;
+  border-radius: 999px;
+  font-size: 14px;
+}
