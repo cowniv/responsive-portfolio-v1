@@ -83,3 +83,8 @@ main { max-width: 1000px; margin: 0 auto; padding: 0 20px; }
   padding: 16px;
   box-shadow: 0 4px 16px rgba(29, 36, 51, .06);
 }
+.thumb { height: 160px; border-radius: 10px; margin-bottom: 12px; }
+.t1 { background: linear-gradient(135deg, #c9d6ea, #2f4c70); }
+.t2 { background: linear-gradient(135deg, #f6efe6, #a86b4c); }
+.t3 { background: linear-gradient(135deg, #fdf8f3, #d88c4a); }
+.project p { color: var(--muted); font-size: 14px; }
