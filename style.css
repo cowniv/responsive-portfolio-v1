@@ -88,3 +88,6 @@ main { max-width: 1000px; margin: 0 auto; padding: 0 20px; }
 .t2 { background: linear-gradient(135deg, #f6efe6, #a86b4c); }
 .t3 { background: linear-gradient(135deg, #fdf8f3, #d88c4a); }
 .project p { color: var(--muted); font-size: 14px; }
+
+.contact { text-align: center; }
+.site-footer { text-align: center; padding: 30px; color: var(--muted); font-size: 14px; }
