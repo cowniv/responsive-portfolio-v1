@@ -91,3 +91,9 @@ main { max-width: 1000px; margin: 0 auto; padding: 0 20px; }
 
 .contact { text-align: center; }
 .site-footer { text-align: center; padding: 30px; color: var(--muted); font-size: 14px; }
+
+/* Tablet & up */
+@media (min-width: 640px) {
+  .grid { grid-template-columns: repeat(2, 1fr); }
+  .hero h1 { font-size: 54px; }
+}
