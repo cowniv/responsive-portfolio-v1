@@ -97,3 +97,10 @@ main { max-width: 1000px; margin: 0 auto; padding: 0 20px; }
   .grid { grid-template-columns: repeat(2, 1fr); }
   .hero h1 { font-size: 54px; }
 }
+
+/* Desktop */
+@media (min-width: 900px) {
+  .menu-icon { display: none; }
+  .menu { display: flex; flex-direction: row; width: auto; padding: 0; gap: 28px; }
+  .grid { grid-template-columns: repeat(3, 1fr); }
+}
